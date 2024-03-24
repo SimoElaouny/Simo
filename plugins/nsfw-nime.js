@@ -110,7 +110,7 @@ handler.command = /^(xwaifu|xneko|blowjob|trap|yuri|cum|hentai)$/i
 
 handler.diamond = true
 
-handler.register = false 
+handler.register = true
 
 handler.group = true
 
