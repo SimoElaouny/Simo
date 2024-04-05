@@ -28,7 +28,7 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *S I M O | M O H A M E D*
+  ≡ *𝙅𝙀𝙁𝙁𝙍𝙔 | (𝘩𝘢𝘮𝘻𝘢) 🖤*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
@@ -138,8 +138,8 @@ contextInfo: {
 externalAdReply: {
 title: 'SIMO ELAOUNY ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/22a99cefefe9878647825.jpg',
-sourceUrl: 'instagram.com/simo__awni',
+thumbnailUrl: 'https://telegra.ph/file/b383aa27d282b42193119.jpg',
+sourceUrl: 'https://www.instagram.com/8wz.t?igsh=MTR0eTIwOTlvdXR3Yw==',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
@@ -158,7 +158,7 @@ renderLargerThumbnail: true
 }
 handler.help = ['menu']
 handler.tags = ['infobot']
-handler.command = ['menu','b','list'] 
+handler.command = ['menu','s','list'] 
 handler.register = false
 
 
