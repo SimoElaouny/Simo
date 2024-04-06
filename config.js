@@ -22,7 +22,7 @@ global.prems = ['212777554973'];
 
 global.packname = 'simo elaouny';
 global.author = 'simo__awni';
-global.wm = 'simo__awni *\nsimo__awni *\n\nsimo__awni';
+global.wm = 'simo__awni';
 global.titulowm = 'simo__awni';
 global.titulowm2 = `simo__awni`
 global.igfg = 'simo__awni';
