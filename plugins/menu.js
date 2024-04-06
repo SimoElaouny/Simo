@@ -28,12 +28,12 @@ const defaultMenu = {
 ⏰ *Uptime:* %muptime  
 ┗━━━━━━━━━━⬣
 %readmore
-  ≡ *𝙅𝙀𝙁𝙁𝙍𝙔 | (𝘩𝘢𝘮𝘻𝘢) 🖤*
+  ≡ *S I M O | E L A O U N Y 🖤*
 `.trimStart(),
   header: '┏━━⊜ *_%category_* ',
   body: '┃⋄ %cmd %isdiamond %isPremium',
   footer: '┗━━━━━━━━⬣\n',
-  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول  *\n+212777554973',
+  after: '*إستخدامك للبوت بشكل صحيح يعني أنك تزيد من إحتمالية أن يبقى البوت شغالا لمدة أطول  *\n+212777554973 *\nhttps://instagram.com/simo__awni',
 }
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
@@ -139,7 +139,7 @@ externalAdReply: {
 title: 'SIMO ELAOUNY ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
 thumbnailUrl: 'https://telegra.ph/file/b383aa27d282b42193119.jpg',
-sourceUrl: 'https://www.instagram.com/8wz.t?igsh=MTR0eTIwOTlvdXR3Yw==',
+sourceUrl: 'https://instagram.com/simo__awni',
 mediaType: 1,
 renderLargerThumbnail: true
 }}}, { quoted: m})
