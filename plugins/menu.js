@@ -138,7 +138,7 @@ contextInfo: {
 externalAdReply: {
 title: 'SIMO ELAOUNY ♥',
 body: "أول بوت واتساب في العالم العربي 💖",
-thumbnailUrl: 'https://telegra.ph/file/b383aa27d282b42193119.jpg',
+thumbnailUrl: 'https://telegra.ph/file/fa4f0a953560a5149104d.jpg',
 sourceUrl: 'https://instagram.com/simo__awni',
 mediaType: 1,
 renderLargerThumbnail: true
