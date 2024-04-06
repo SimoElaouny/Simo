@@ -22,7 +22,7 @@ global.prems = ['212777554973'];
 
 global.packname = 'simo elaouny';
 global.author = 'simo__awni';
-global.wm = 'simo__awni';
+global.wm = 'simo__awni *\nsimo__awni *\n\nsimo__awni';
 global.titulowm = 'simo__awni';
 global.titulowm2 = `simo__awni`
 global.igfg = 'simo__awni';
@@ -45,10 +45,10 @@ global.mes = d.toLocaleDateString('en', {month: 'long'});
 global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nBOBIZA`;
-global.gt = 'BOBIZA';
-global.mysticbot = 'The BOBIZA';
-global.md = 'https://instagram.com/noureddine_ouafy';
+global.wm2 = `${dia} ${fecha}\nELAOUNY`;
+global.gt = 'SIMO ELAOUNY';
+global.mysticbot = 'Simo Elaouny';
+global.md = 'https://instagram.com/simo__awni';
 global.mysticbot = 'instagram.com/simo__awni';
 global.waitt = '*[ ⏳ ] LOADING...*';
 global.waittt = '*[ ⏳ ] LOADING...*';
