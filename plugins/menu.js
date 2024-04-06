@@ -158,7 +158,7 @@ renderLargerThumbnail: true
 }
 handler.help = ['menu']
 handler.tags = ['infobot']
-handler.command = ['menu','s','list'] 
+handler.command = ['menu','m','list'] 
 handler.register = false
 
 
