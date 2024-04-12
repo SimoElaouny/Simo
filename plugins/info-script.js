@@ -3,8 +3,8 @@
 import fetch from 'node-fetch'
 var handler = async(m, { conn, text, usedPrefix, command }) => {
 
-    let str = `*https://instagram.com/simo__awni*`
-    let waifu = await fetch('https://instagram.com/simo__awni')
+    let str = `*https://github.com/ImYanXiao/Elaina-MultiDevice*`
+    let waifu = await fetch('https://raw.githubusercontent.com/ArugaZ/grabbed-results/main/random/anime/waifu.txt')
     let chen = await waifu.text()
     let ran = chen.split('\n')
     let yae = ran[Math.floor(Math.random() * ran.length)]
