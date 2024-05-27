@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const handler = async (m, { text }) => {
     if (!text) {
-        return m.reply('يرجى تحديد اسم المدينة لعرض مواقيت الصلاة. مثال:\n\n.الصلاة القاهرة');
+        return m.reply('يرجى تحديد اسم المدينة لعرض مواقيت الصلاة. مثال:\n\n.الصلاة اليوسفية');
     }
 
     try {
